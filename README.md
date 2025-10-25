@@ -3,7 +3,4 @@ records of vascular plant species occurrences in the Himalayas, downloaded from 
 records of endemic species are compiled from multiple sources. 
 
 The occurrence data is provided in an Excel file Biodiversitydata.xlsx. and Biodiversitydata.csv
-The summary.csv provides a summary of
-1) number of occurrence records per species in the dataset
-2) an overview of data completeness a species frequency distribution
-      
+The summary.xlsx provides a summary of the number of occurrence records per species in the dataset and frequency distribution of the number of species obtained
